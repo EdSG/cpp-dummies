@@ -1,1 +1,1 @@
-Examples and exercises for [_C++ for Dummies_][http://www.dummies.com/how-to/computers-software/programming/cplusplus.html].
+Examples and exercises for _[C++ for Dummies](http://www.dummies.com/how-to/computers-software/programming/cplusplus.html)_.
