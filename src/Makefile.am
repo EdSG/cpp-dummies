@@ -1,2 +1,2 @@
-SUBDIRS = chap01
+SUBDIRS = chap01 chap02
 

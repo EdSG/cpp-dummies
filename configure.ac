@@ -11,5 +11,6 @@ AC_CONFIG_FILES([
     Makefile
     src/Makefile
     src/chap01/Makefile
+    src/chap02/Makefile
 ])
 AC_OUTPUT
